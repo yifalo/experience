@@ -1,2 +1,2 @@
 # experience
-Record my weekly development experience summary
+Record my weekly gains and experience summary.               
