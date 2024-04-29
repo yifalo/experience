@@ -1,0 +1,6 @@
+---
+categories:
+  - technology
+  - software
+  - os
+---
