@@ -1,4 +1,5 @@
 ---
+title: 面向对象SOLID设计原则
 categories:
   - technology
   - software
