@@ -1,5 +1,5 @@
 ---
-title: '字体样式'
+title: '字体等宽样式'
 categories:
   - technology
   - software
