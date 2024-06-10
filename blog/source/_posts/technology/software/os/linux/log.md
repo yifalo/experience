@@ -1,9 +1,10 @@
 ---
-title: Linux命令合集
+title: 日志翻页查看
 categories:
   - technology
   - software
   - os
+  - linux
 ---
 
 ### more
